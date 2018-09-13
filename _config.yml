@@ -9,9 +9,9 @@ url: "goldpigfly.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
-twitter: twitter
-github:  github
+facebook: https://www.facebook.com/seungwook.jung.900
+# twitter: twitter
+github:  https://github.com/goldpigfly
 
 #Additional Pages
 about: about
@@ -43,7 +43,7 @@ repo: goldpigfly #github repository
 branch: master #branch
 relative_source: #../hanuman/ #source directory
 destination: #../hanuman-pages/ #destination directory
-production_url: # https://samanyougarg.com/
+production_url: https://goldpigfly.github.io/goldpigfly.github.io/
 source_url: https://goldpigfly.github.io/goldpigfly.github.io/ #source repository url
 
 exclude:
