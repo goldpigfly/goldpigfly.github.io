@@ -12,7 +12,6 @@ paginate:	5 # The number of posts to show per page on your homepage
 facebook: seungwook.jung.900
 # twitter: twitter
 github:  goldpigfly
-instagram: goldpig891002
 
 #Additional Pages
 about: about
@@ -40,7 +39,7 @@ plugins:
 safe: False
 lsi: False
 username: "goldpigfly" #github username
-repo: goldpigfly #github repository
+repo: goldpigfly.github.io #github repository
 branch: master #branch
 relative_source: #../hanuman/ #source directory
 destination: #../hanuman-pages/ #destination directory
