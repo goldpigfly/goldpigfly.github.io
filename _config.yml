@@ -9,9 +9,10 @@ url: "goldpigfly.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: https://www.facebook.com/seungwook.jung.900
+facebook: seungwook.jung.900
 # twitter: twitter
-github:  https://github.com/goldpigfly
+github:  goldpigfly
+instagram: goldpig891002
 
 #Additional Pages
 about: about
