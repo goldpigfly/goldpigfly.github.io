@@ -39,12 +39,12 @@ plugins:
 safe: False
 lsi: False
 username: goldpigfly #github username
-repo: goldpigfly.github.io #github repository
+repo: https://github.com/goldpigfly/goldpigfly.github.io #github repository
 branch: master #branch
 relative_source: #../hanuman/ #source directory
 destination: #../hanuman-pages/ #destination directory
-production_url: https://goldpigfly.github.io/goldpigfly.github.io/
-source_url: https://goldpigfly.github.io/goldpigfly.github.io/ #source repository url
+production_url: https://goldpigfly.github.io
+source_url: https://github.com/goldpigfly/goldpigfly.github.io #source repository url
 
 exclude:
   - README.md
