@@ -4,8 +4,8 @@ description: 혼자 놀기 위해 만든 블로그
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "" # "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
-url: "goldpigfly.github.io" # the base hostname & protocol for your site
+baseurl: https://goldpigfly.github.io # "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+url: https://goldpigfly.github.io # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
@@ -23,7 +23,7 @@ permalink: /:title
 
 
 # Google Analytics
-analytics_id: ""
+# analytics_id: ""
 
 # Build settings
 markdown: kramdown
@@ -38,7 +38,7 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: "goldpigfly" #github username
+username: goldpigfly #github username
 repo: goldpigfly.github.io #github repository
 branch: master #branch
 relative_source: #../hanuman/ #source directory
